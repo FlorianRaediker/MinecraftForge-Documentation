@@ -44,7 +44,7 @@ These customizations are highly recommended for all projects.
 * To change the name of the file you build - edit the value of `archivesBaseName` to suit.
 * To change your "maven coordinates" - edit the value of `group` as well.
 * To change the version number - edit the value of `version`.
-* To update the run configurations - replace all occurrences of `examplemod` to the mod id of your mod.
+* To update the run configurations - replace all occurrences of `examplemod` to the modid of your mod.
 
 Building and Testing Your Mod
 -----------------------------

@@ -85,7 +85,7 @@ and will contain some special indicators marking it as such.
 What is `@Mod`?
 -------------
 
-This is an annotation indicating to the Forge Mod Loader that the class is a Mod entry point. The `@Mod` annotation's value should match a mod id in the `src/main/resources/META-INF/mods.toml` file.
+This is an annotation indicating to the Forge Mod Loader that the class is a Mod entry point. The `@Mod` annotation's value should match a modid in the `src/main/resources/META-INF/mods.toml` file.
 
 Keeping Your Code Clean Using Sub-packages
 ------------------------------------------
